@@ -12,16 +12,6 @@ Le projet concerne différents aspects de notre entité. La maison mère nous  i
 * Mettre en place une « vitrine » de l’entreprise par le biais d’un
 serveur WEB
 * Mise en place de procédures techniques en anglais
-
-File server | Access
---- | ---
-Direction | DG+ Assistante + Président du gorupe
-Sce Généraux | Directrice + CODIR + Standard
-SI | DSI + tech support + CODIR
-Finance | DAF + Président du groupe
-Codir | DAF + Président du groupe + DSI +DG
-
-
 ### Budget à respecter :
 La maison mère a défini un budget de 700k pour les points suivants :
 1. Prestations
@@ -34,3 +24,25 @@ La maison mère a défini un budget de 700k pour les points suivants :
 * Les caractéristiques de l’accès internet et durées d’engagement
 * Réaliser une maquette fonctionnelle de la solution proposée
 ## Nous avons :
+
+##Ressources :
+File server | Access
+--- | ---
+Direction | DG+ Assistante + Président du gorupe
+Sce Généraux | Directrice + CODIR + Standard
+SI | DSI + tech support + CODIR
+Finance | DAF + Président du groupe
+Codir | DAF + Président du groupe + DSI +DG
+
+Métier | Poste | Nom | Prénom
+--- | --- | --- | ---
+Direction | DG | Dufour | Tom
+Direction	| Assistante de direction	| Houston	| Withney
+Sce Generau	| Directrice	| Dion	| Celine
+Sce Generau	| Standard	| Pokora	| Mat
+SI	| DSI	| Gims | Maitre
+SI	| tech support	| Goldmann	| Jean-Jacques
+Finance	| DAF	| M	| Black
+Finance	| Contrôleur de gestion	| Miniogue	| Kulie
+CODIR	| Président du groupe	| Knopfler	| Marc
+CODIR	| DAF	| Doré | Julien
