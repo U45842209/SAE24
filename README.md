@@ -25,7 +25,7 @@ La maison mère a défini un budget de 700k pour les points suivants :
 * Réaliser une maquette fonctionnelle de la solution proposée
 ## Nous avons :
 
-##Ressources :
+## Ressources :
 File server | Access
 --- | ---
 Direction | DG+ Assistante + Président du gorupe
