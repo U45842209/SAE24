@@ -12,7 +12,7 @@ Le projet concerne différents aspects de notre entité. La maison mère nous  i
 serveur WEB
 * Mise en place de procédures techniques en anglais
 ### Budget
-*  la maison mère a défini un budget de 700k
+La maison mère a défini un budget de 700k pour les points suivants :
 1. Prestations
 2. Matériels
 3. Formation
