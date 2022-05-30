@@ -11,3 +11,8 @@ Le projet concerne différents aspects de notre entité. La maison mère nous  i
 * Mettre en place une « vitrine » de l’entreprise par le biais d’un
 serveur WEB
 * Mise en place de procédures techniques en anglais
+### Budget
+*  la maison mère a défini un budget de 700k
+1. Prestations
+2. Matériels
+3. Formation
