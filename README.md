@@ -23,3 +23,4 @@ La maison mère a défini un budget de 700k pour les points suivants :
 * Nommer un chef de projet, et lister les différents intervenants
 * Les caractéristiques de l’accès internet et durées d’engagement
 * Réaliser une maquette fonctionnelle de la solution proposée
+## Nous avons :
