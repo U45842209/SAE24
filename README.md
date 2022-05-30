@@ -13,9 +13,13 @@ Le projet concerne différents aspects de notre entité. La maison mère nous  i
 serveur WEB
 * Mise en place de procédures techniques en anglais
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+File server | Access
+--- | ---
+Direction | DG+ Assistante + Président du gorupe
+Sce Généraux | Directrice + CODIR + Standard
+SI | DSI + tech support + CODIR
+Finance | DAF + Président du groupe
+Codir | DAF + Président du groupe + DSI +DG
 
 
 ### Budget à respecter :
