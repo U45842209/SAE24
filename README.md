@@ -50,3 +50,18 @@ Finance	| DAF	| M	| Black
 Finance	| Contrôleur de gestion	| Miniogue	| Kulie
 CODIR	| Président du groupe	| Knopfler	| Marc
 CODIR	| DAF	| Doré | Julien
+
+Intervenants | Taches
+--- | ---
+Beghin Louis | 0
+Bonenfant Jules | 0
+Cartier Calvin | 0
+Eveiller Léo | 0
+Fréret Théo | 0
+Ginguené Titouan | 0
+Lamour Lucas | 0
+Lamy Benoit | 0
+Poulain Thomas | 0
+Ricou Ewen | 0
+Saussey Emerick | 0
+Tahon Marc | 0
