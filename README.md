@@ -5,13 +5,17 @@ Le projet concerne différents aspects de notre entité. La maison mère nous  i
 ### Taches à effectuer :
 * Redéfinir le plan d’adressage
 * Revoir le mode de fonctionnement du LAN & WAN
+* Mettre en place le WAN ( confgurer un routeur)
 * Procéder au remplacement des équipement vieillissants
+* Mettre en place un serveur Windows ( 2016 / 2019) Rôles :  ADDS / DNS / DHCP / FileServer / WEB)
 * Mettre en place une nouvelle architecture serveur des fichiers
 * Redéfinir / Définir une stratégie d’accès aux partages
-* Prévoir un plan d’accompagnement et de formation auprès des utilisateurs, en anglais
 * Mettre en place une « vitrine » de l’entreprise par le biais d’un
 serveur WEB
+* Prévoir un plan d’accompagnement et de formation auprès des utilisateurs, en anglais
 * Mise en place de procédures techniques en anglais
+* Produire un "Gantt" du projet
+* Présenter votre solution avec la production de votre maquette et d'un powerpoint ( Chaque personne interviendra)
 ### Budget à respecter :
 La maison mère a défini un budget de 700k pour les points suivants :
 1. Prestations
