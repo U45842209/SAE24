@@ -3,19 +3,17 @@ Le projet concerne différents aspects de notre entité. La maison mère nous  i
 
 ## Nous devons :
 ### Taches à effectuer :
-* Redéfinir le plan d’adressage
-* Revoir le mode de fonctionnement du LAN & WAN
-* Mettre en place le WAN ( confgurer un routeur)
-* Procéder au remplacement des équipement vieillissants
-* Mettre en place un serveur Windows ( 2016 / 2019) Rôles :  ADDS / DNS / DHCP / FileServer / WEB)
-* Mettre en place une nouvelle architecture serveur des fichiers
-* Redéfinir / Définir une stratégie d’accès aux partages
-* Mettre en place une « vitrine » de l’entreprise par le biais d’un
-serveur WEB
-* Prévoir un plan d’accompagnement et de formation auprès des utilisateurs, en anglais
-* Mise en place de procédures techniques en anglais
-* Produire un "Gantt" du projet
-* Présenter votre solution avec la production de votre maquette et d'un powerpoint ( Chaque personne interviendra)
+* Redéfinir le plan d’adressage :heavy_check_mark:
+* Revoir le mode de fonctionnement du LAN & WAN :x:
+* Mettre en place le WAN ( confgurer un routeur) :x:
+* Procéder au remplacement des équipement vieillissants :heavy_check_mark:
+* Mettre en place un serveur Windows ( 2016 / 2019) Rôles :  ADDS / DNS / DHCP / FileServer / WEB) :x:
+* Mettre en place une nouvelle architecture serveur des fichiers :x:
+* Redéfinir / Définir une stratégie d’accès aux partages :x:
+* Mettre en place une « vitrine » de l’entreprise par le biais d’un serveur WEB :x:
+* Prévoir un plan d’accompagnement et de formation auprès des utilisateurs, en anglais :x:
+* Produire un "Gantt" du projet :x:
+* Présenter votre solution avec la production de votre maquette et d'un powerpoint (Chaque personne interviendra) :x:
 ### Budget à respecter :
 La maison mère a défini un budget de 700k pour les points suivants :
 1. Prestations
@@ -24,6 +22,7 @@ La maison mère a défini un budget de 700k pour les points suivants :
 ### Organisation à respecter :
 * Fournir un planning de réalisation et les étapes de validation :heavy_check_mark:
 * Réaliser un schéma de la future infrastructure :x:
+* Réaliser un plan de formation :x:
 * Nommer un chef de projet, et lister les différents intervenants :heavy_check_mark:
 * Les caractéristiques de l’accès internet et durées d’engagement :x:
 * Réaliser une maquette fonctionnelle de la solution proposée :x:
