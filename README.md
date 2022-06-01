@@ -22,7 +22,7 @@ La maison mère a défini un budget de 700k pour les points suivants :
 2. Matériels
 3. Formation
 ### Organisation à respecter :
-* Fournir un planning de réalisation et les étapes de validation :x:
+* Fournir un planning de réalisation et les étapes de validation :heavy_check_mark:
 * Réaliser un schéma de la future infrastructure :x:
 * Nommer un chef de projet, et lister les différents intervenants :heavy_check_mark:
 * Les caractéristiques de l’accès internet et durées d’engagement :x:
