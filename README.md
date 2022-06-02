@@ -7,7 +7,7 @@ Le projet concerne différents aspects de notre entité. La maison mère nous  i
 * Revoir le mode de fonctionnement du LAN & WAN :x:
 * Mettre en place le WAN ( confgurer un routeur) :x:
 * Procéder au remplacement des équipement vieillissants :heavy_check_mark:
-* Mettre en place un serveur Windows ( 2016 / 2019) Rôles :  ADDS / DNS / DHCP / FileServer / WEB) :x:
+* Mettre en place un serveur Windows ( 2016 / 2019) Rôles :  ADDS / DNS / DHCP / FileServer / WEB) :heavy_check_mark:
 * Mettre en place une nouvelle architecture serveur des fichiers :x:
 * Redéfinir / Définir une stratégie d’accès aux partages :x:
 * Mettre en place une « vitrine » de l’entreprise par le biais d’un serveur WEB :x:
@@ -21,7 +21,7 @@ La maison mère a défini un budget de 700k pour les points suivants :
 3. Formation
 ### Organisation à respecter :
 * Fournir un planning de réalisation et les étapes de validation :heavy_check_mark:
-* Réaliser un schéma de la future infrastructure :x:
+* Réaliser un schéma de la future infrastructure :heavy_check_mark:
 * Réaliser un plan de formation :x:
 * Nommer un chef de projet, et lister les différents intervenants :heavy_check_mark:
 * Les caractéristiques de l’accès internet et durées d’engagement :x:
