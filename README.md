@@ -66,4 +66,4 @@ Saussey Emerick | 0
 Tahon Marc | 0
 
 ### Fichiers
-Shéma infrastructure : [ici](schéma_4_infra.drawio)
+Shéma infrastructure : [ici](schema_4_infa.drawio)
